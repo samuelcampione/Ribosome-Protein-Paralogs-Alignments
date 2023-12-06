@@ -8,7 +8,7 @@ Paralogs were limited to the 21 pairs with exactly matching AA protein sequence.
 
 I used CLCG Genomics Workbench 23 for batched alignments of the paralogs. 
 
-
+Code and script sused are included [here](https://github.com/samuelcampione/Ribosome-Protein-Paralogs-Alignments/tree/main/Code).
 
 ## Example alignment:
 
